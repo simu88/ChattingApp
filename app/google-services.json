@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "615192988054",
+    "project_id": "chattingapp-16158",
+    "storage_bucket": "chattingapp-16158.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:615192988054:android:fa3ec0ff676df3448135b7",
+        "android_client_info": {
+          "package_name": "com.example.chattingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "615192988054-rmv88s6amo2jc9d9q82k92trvhup2jo6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chattingapp",
+            "certificate_hash": "951d4c12cc72bd8501f3faaa627add973f24c3b0"
+          }
+        },
+        {
+          "client_id": "615192988054-s068loatg5umod1sm4i8jsk5k49mujbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLfY3Y6tkc6mXSKWVvMh7zhA7JxXeAMYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615192988054-s068loatg5umod1sm4i8jsk5k49mujbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
