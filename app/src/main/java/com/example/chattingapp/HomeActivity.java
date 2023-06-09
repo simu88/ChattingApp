@@ -27,6 +27,7 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class HomeActivity extends AppCompatActivity {
 
+    //pull 확인
     Button deleteBtn;
     Button logoutBtn2;
     GoogleSignInClient mGoogleSignInClient;
